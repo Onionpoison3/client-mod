@@ -1,0 +1,6 @@
+server/secrets/
+client-mod/vanilla-lobby-allow/build/
+client-mod/vanilla-lobby-allow/.gradle/
+client-mod/vanilla-lobby-allow/run/
+client-mod/vanilla-lobby-allow/repo/
+server/
